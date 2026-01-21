@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/ShobiyaSrini19/leetcode/tree/master/0866-prime-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ShobiyaSrini19/leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
