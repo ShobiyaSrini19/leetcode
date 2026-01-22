@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShobiyaSrini19/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
 | [0866-prime-palindrome](https://github.com/ShobiyaSrini19/leetcode/tree/master/0866-prime-palindrome) |
 ## Number Theory
 |  |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/ShobiyaSrini19/leetcode/tree/master/0092-reverse-linked-list-ii) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
