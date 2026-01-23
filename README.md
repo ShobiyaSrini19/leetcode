@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
+| [0097-interleaving-string](https://github.com/ShobiyaSrini19/leetcode/tree/master/0097-interleaving-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0097-interleaving-string](https://github.com/ShobiyaSrini19/leetcode/tree/master/0097-interleaving-string) |
 <!---LeetCode Topics End-->
