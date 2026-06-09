@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShobiyaSrini19/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/ShobiyaSrini19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShobiyaSrini19/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShobiyaSrini19/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShobiyaSrini19/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
