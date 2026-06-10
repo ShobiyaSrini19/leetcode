@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShobiyaSrini19/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShobiyaSrini19/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ShobiyaSrini19/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShobiyaSrini19/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ShobiyaSrini19/leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/ShobiyaSrini19/leetcode/tree/master/0097-interleaving-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShobiyaSrini19/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
